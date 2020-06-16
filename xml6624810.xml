@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Jobs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.MyOrderDesk.com/Schemas/Jobs.xsd">
+  <RecordCount>1</RecordCount>
+  <Job CartBased="Y">
+    <JobID>6624810</JobID>
+    <CartID>1258393</CartID>
+    <Submit_Datetime>6/1/2020 2:46:22 PM</Submit_Datetime>
+    <Status />
+    <Status_Datetime />
+    <Cart>
+      <CreateDatetime>6/1/2020 2:42:00 PM</CreateDatetime>
+      <LastModifiedDatetime>6/1/2020 2:46:00 PM</LastModifiedDatetime>
+      <Description>Employee Login's Cart (1258393) - Jun  1 2020  3:42PM (EDT)</Description>
+      <DueDate />
+      <Notes />
+      <SubTotal>0</SubTotal>
+      <DiscountTotal>0.00</DiscountTotal>
+      <TaxTotal>0</TaxTotal>
+      <ShippingTotal>0</ShippingTotal>
+      <OrderTotal>0</OrderTotal>
+      <Taxes>
+        <TaxRateID />
+        <ManualTaxes>N</ManualTaxes>
+        <Tax>
+          <TaxRateName1 />
+          <TaxAmount1>0</TaxAmount1>
+          <TaxShipping1>N</TaxShipping1>
+          <TaxRateName2 />
+          <TaxAmount2>0</TaxAmount2>
+          <TaxShipping2>N</TaxShipping2>
+          <TaxRateName3 />
+          <TaxAmount3>0</TaxAmount3>
+          <TaxShipping3>N</TaxShipping3>
+          <TaxRateName4 />
+          <TaxAmount4>0</TaxAmount4>
+          <TaxShipping4>N</TaxShipping4>
+        </Tax>
+      </Taxes>
+      <Shipping>
+        <ShippingName />
+        <ShippingTotal>0</ShippingTotal>
+        <DateShipped />
+      </Shipping>
+      <Payments />
+      <ShippingAddress>
+        <FirstName />
+        <LastName />
+        <CompanyName />
+        <Address1 />
+        <Address2 />
+        <City />
+        <StateProvTerr />
+        <ZipPostalCode />
+        <Country />
+        <Phone />
+        <Residential> </Residential>
+      </ShippingAddress>
+      <BillingAddress>
+        <FirstName />
+        <LastName />
+        <CompanyName />
+        <Address1 />
+        <Address2 />
+        <City />
+        <StateProvTerr />
+        <ZipPostalCode />
+        <Country />
+        <Phone />
+        <Residential> </Residential>
+      </BillingAddress>
+      <Item CartItemID="1903812">
+        <Total />
+        <TaxableTotal />
+        <Shipping />
+        <Weight>0</Weight>
+        <Form>
+          <OrderFormID>427888</OrderFormID>
+          <Title>Stauffer Sale Signage</Title>
+          <Field>
+            <Type>T</Type>
+            <ID>mod_JobDescription</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Project Name</Prompt>
+            <Value>Store 19</Value>
+          </Field>
+          <Field>
+            <Type>A</Type>
+            <ID>mod_JobNotes</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Notes</Prompt>
+            <Value />
+          </Field>
+          <Field>
+            <Type>Y</Type>
+            <ID>inv_docmart</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Click Thumbnail To View Larger Image</Prompt>
+            <Value>116602|1|0.0000|Y|0.0000|1|0|1|</Value>
+          </Field>
+          <Field>
+            <Type>P</Type>
+            <ID>udf_storenumber</ID>
+            <Required>Y</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Please Indicate Store Number</Prompt>
+            <Value>Store 19</Value>
+          </Field>
+          <Field>
+            <Type>1</Type>
+            <ID>btn_Send</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Send</Prompt>
+            <Value />
+          </Field>
+        </Form>
+        <Files />
+      </Item>
+      <Item CartItemID="1903811">
+        <Total />
+        <TaxableTotal />
+        <Shipping />
+        <Weight>0</Weight>
+        <Form>
+          <OrderFormID>427888</OrderFormID>
+          <Title>Stauffer Sale Signage</Title>
+          <Field>
+            <Type>T</Type>
+            <ID>mod_JobDescription</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Project Name</Prompt>
+            <Value>Store 16</Value>
+          </Field>
+          <Field>
+            <Type>A</Type>
+            <ID>mod_JobNotes</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Notes</Prompt>
+            <Value />
+          </Field>
+          <Field>
+            <Type>Y</Type>
+            <ID>inv_docmart</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Click Thumbnail To View Larger Image</Prompt>
+            <Value>116602|1|0.0000|Y|0.0000|1|0|1|</Value>
+          </Field>
+          <Field>
+            <Type>P</Type>
+            <ID>udf_storenumber</ID>
+            <Required>Y</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Please Indicate Store Number</Prompt>
+            <Value>Store 16</Value>
+          </Field>
+          <Field>
+            <Type>1</Type>
+            <ID>btn_Send</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Send</Prompt>
+            <Value />
+          </Field>
+        </Form>
+        <Files />
+      </Item>
+      <Item CartItemID="1903810">
+        <Total />
+        <TaxableTotal />
+        <Shipping />
+        <Weight>0</Weight>
+        <Form>
+          <OrderFormID>427888</OrderFormID>
+          <Title>Stauffer Sale Signage</Title>
+          <Field>
+            <Type>T</Type>
+            <ID>mod_JobDescription</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Project Name</Prompt>
+            <Value>Store 19</Value>
+          </Field>
+          <Field>
+            <Type>A</Type>
+            <ID>mod_JobNotes</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Notes</Prompt>
+            <Value />
+          </Field>
+          <Field>
+            <Type>Y</Type>
+            <ID>inv_docmart</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Click Thumbnail To View Larger Image</Prompt>
+            <Value>116601|1|0.0000|Y|0.0000|1|0|1|</Value>
+          </Field>
+          <Field>
+            <Type>P</Type>
+            <ID>udf_storenumber</ID>
+            <Required>Y</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Please Indicate Store Number</Prompt>
+            <Value>Store 19</Value>
+          </Field>
+          <Field>
+            <Type>1</Type>
+            <ID>btn_Send</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Send</Prompt>
+            <Value />
+          </Field>
+        </Form>
+        <Files />
+      </Item>
+      <Item CartItemID="1903809">
+        <Total />
+        <TaxableTotal />
+        <Shipping />
+        <Weight>0</Weight>
+        <Form>
+          <OrderFormID>427888</OrderFormID>
+          <Title>Stauffer Sale Signage</Title>
+          <Field>
+            <Type>T</Type>
+            <ID>mod_JobDescription</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Project Name</Prompt>
+            <Value>Store 16</Value>
+          </Field>
+          <Field>
+            <Type>A</Type>
+            <ID>mod_JobNotes</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Notes</Prompt>
+            <Value />
+          </Field>
+          <Field>
+            <Type>Y</Type>
+            <ID>inv_docmart</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Click Thumbnail To View Larger Image</Prompt>
+            <Value>116601|1|0.0000|Y|0.0000|1|0|1|</Value>
+          </Field>
+          <Field>
+            <Type>P</Type>
+            <ID>udf_storenumber</ID>
+            <Required>Y</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Please Indicate Store Number</Prompt>
+            <Value>Store 16</Value>
+          </Field>
+          <Field>
+            <Type>1</Type>
+            <ID>btn_Send</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Send</Prompt>
+            <Value />
+          </Field>
+        </Form>
+        <Files />
+      </Item>
+      <Item CartItemID="1903808">
+        <Total />
+        <TaxableTotal />
+        <Shipping />
+        <Weight>0</Weight>
+        <Form>
+          <OrderFormID>427888</OrderFormID>
+          <Title>Stauffer Sale Signage</Title>
+          <Field>
+            <Type>T</Type>
+            <ID>mod_JobDescription</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Project Name</Prompt>
+            <Value>Store 19</Value>
+          </Field>
+          <Field>
+            <Type>A</Type>
+            <ID>mod_JobNotes</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Notes</Prompt>
+            <Value />
+          </Field>
+          <Field>
+            <Type>Y</Type>
+            <ID>inv_docmart</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Click Thumbnail To View Larger Image</Prompt>
+            <Value>136947|3|0.0000|Y|0.0000|1|0|1|</Value>
+          </Field>
+          <Field>
+            <Type>P</Type>
+            <ID>udf_storenumber</ID>
+            <Required>Y</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Please Indicate Store Number</Prompt>
+            <Value>Store 19</Value>
+          </Field>
+          <Field>
+            <Type>1</Type>
+            <ID>btn_Send</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Send</Prompt>
+            <Value />
+          </Field>
+        </Form>
+        <Files />
+      </Item>
+      <Item CartItemID="1903807">
+        <Total />
+        <TaxableTotal />
+        <Shipping />
+        <Weight>0</Weight>
+        <Form>
+          <OrderFormID>427888</OrderFormID>
+          <Title>Stauffer Sale Signage</Title>
+          <Field>
+            <Type>T</Type>
+            <ID>mod_JobDescription</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Project Name</Prompt>
+            <Value>Store 19</Value>
+          </Field>
+          <Field>
+            <Type>A</Type>
+            <ID>mod_JobNotes</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Notes</Prompt>
+            <Value />
+          </Field>
+          <Field>
+            <Type>Y</Type>
+            <ID>inv_docmart</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Click Thumbnail To View Larger Image</Prompt>
+            <Value>155238|1|0.0000|Y|0.0000|1|0|1|</Value>
+          </Field>
+          <Field>
+            <Type>P</Type>
+            <ID>udf_storenumber</ID>
+            <Required>Y</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Please Indicate Store Number</Prompt>
+            <Value>Store 19</Value>
+          </Field>
+          <Field>
+            <Type>1</Type>
+            <ID>btn_Send</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Send</Prompt>
+            <Value />
+          </Field>
+        </Form>
+        <Files />
+      </Item>
+      <Item CartItemID="1903806">
+        <Total />
+        <TaxableTotal />
+        <Shipping />
+        <Weight>0</Weight>
+        <Form>
+          <OrderFormID>427888</OrderFormID>
+          <Title>Stauffer Sale Signage</Title>
+          <Field>
+            <Type>T</Type>
+            <ID>mod_JobDescription</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Project Name</Prompt>
+            <Value>Store 16</Value>
+          </Field>
+          <Field>
+            <Type>A</Type>
+            <ID>mod_JobNotes</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Notes</Prompt>
+            <Value />
+          </Field>
+          <Field>
+            <Type>Y</Type>
+            <ID>inv_docmart</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Click Thumbnail To View Larger Image</Prompt>
+            <Value>155238|1|0.0000|Y|0.0000|1|0|1|</Value>
+          </Field>
+          <Field>
+            <Type>P</Type>
+            <ID>udf_storenumber</ID>
+            <Required>Y</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Please Indicate Store Number</Prompt>
+            <Value>Store 16</Value>
+          </Field>
+          <Field>
+            <Type>1</Type>
+            <ID>btn_Send</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Send</Prompt>
+            <Value />
+          </Field>
+        </Form>
+        <Files />
+      </Item>
+      <Item CartItemID="1903805">
+        <Total />
+        <TaxableTotal />
+        <Shipping />
+        <Weight>0</Weight>
+        <Form>
+          <OrderFormID>427888</OrderFormID>
+          <Title>Stauffer Sale Signage</Title>
+          <Field>
+            <Type>T</Type>
+            <ID>mod_JobDescription</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Project Name</Prompt>
+            <Value>Store 12</Value>
+          </Field>
+          <Field>
+            <Type>A</Type>
+            <ID>mod_JobNotes</ID>
+            <Required>N</Required>
+            <Hidden>Y</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Notes</Prompt>
+            <Value />
+          </Field>
+          <Field>
+            <Type>Y</Type>
+            <ID>inv_docmart</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Click Thumbnail To View Larger Image</Prompt>
+            <Value>155238|6|0.0000|Y|0.0000|1|0|1|</Value>
+          </Field>
+          <Field>
+            <Type>P</Type>
+            <ID>udf_storenumber</ID>
+            <Required>Y</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Please Indicate Store Number</Prompt>
+            <Value>Store 12</Value>
+          </Field>
+          <Field>
+            <Type>1</Type>
+            <ID>btn_Send</ID>
+            <Required>N</Required>
+            <Hidden>N</Hidden>
+            <DatePicker>N</DatePicker>
+            <Prompt>Send</Prompt>
+            <Value />
+          </Field>
+        </Form>
+        <Files />
+      </Item>
+    </Cart>
+    <Sender>
+      <Company_Name>Stauffers of Kissel Hill</Company_Name>
+      <Division />
+      <Branch />
+      <Department />
+      <Location />
+      <Salutation />
+      <First_Name>Employee</First_Name>
+      <Last_Name>Login</Last_Name>
+      <Degree />
+      <Title />
+      <Title2 />
+      <Address1>813 Lititz Pike</Address1>
+      <Address2 />
+      <Floor />
+      <City>Lititz</City>
+      <State_Prov_Terr>PA</State_Prov_Terr>
+      <Zip_Postal_Code>17543</Zip_Postal_Code>
+      <Country>United States</Country>
+      <MainPhone />
+      <Phone>5555555555</Phone>
+      <DirectLine />
+      <Extension />
+      <CellPhone />
+      <Fax />
+      <HomePhone />
+      <HomeFax />
+      <ShipToAddress />
+      <DoNotCallAfter>                         </DoNotCallAfter>
+      <Email>Master@skh.com</Email>
+      <User_ID>886000</User_ID>
+      <CCEmail />
+      <ChargeBkNumber />
+      <RegNumber />
+      <HeardAboutUs />
+    </Sender>
+  </Job>
+</Jobs>
