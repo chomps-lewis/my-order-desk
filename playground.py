@@ -3,7 +3,7 @@ from assign_order import assign_order
 
 orders = []
 invoice = []
-file = input('Enter the .xml file name. Case-sensitive and include .xml')
+file = input('Enter the .xml file name. Case-sensitive and include .xml\n')
 
 with open(file) as f:
     data = f.readlines()
