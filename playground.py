@@ -3,9 +3,9 @@ from assign_order import assign_order
 
 orders = []
 invoice = []
-cost = 0
+file = input('Enter the .xml file name. Case-sensitive and include .xml')
 
-with open('june.txt') as f:
+with open(file) as f:
     data = f.readlines()
 
 for i, line in enumerate(data):
